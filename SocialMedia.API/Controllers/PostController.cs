@@ -13,7 +13,7 @@ namespace SocialMedia.API.Controllers
             return View();
         }
 
-        [Route("Post/Hola")]
+        [Route("Post/getPost")]
         public IActionResult GetPost()
         {
 
