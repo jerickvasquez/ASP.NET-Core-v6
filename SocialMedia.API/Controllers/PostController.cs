@@ -26,7 +26,9 @@ namespace SocialMedia.API.Controllers
         [Route("Post/getPost")]
         public async Task<IActionResult> GetPost()
         {
-
+            //var posts = new PostRepository().GetPosts();
+            //La linea anterior es mala practica debido a que se crea una instancia nueva, aumentando asi el nivel de acoplamiento de clases
+            //Básicamente, el acoplamiento de clases es una medida de cuántas clases usa una sola clase
             var posts = await _postRepository.GetPosts();
 
             //Retorna un status 200, todo funciono como se esperaba
