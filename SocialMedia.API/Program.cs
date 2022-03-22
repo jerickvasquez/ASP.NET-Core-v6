@@ -1,15 +1,25 @@
+using Microsoft.EntityFrameworkCore;
 using SocialMedia.API.Controllers;
 using SocialMedia.Core.Interfaces;
+using SocialMedia.Infraestructure.Data;
 using SocialMedia.Infraestructure.Repositories;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+//Conexion a base de datos
+builder.Services.AddDbContext<SocialMediaContext> ( options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("SocialMedia"))
+    );
+
 //Se resuelven las dependencias
 //Cada vez que el programa haga uso de la abstraccion IPostRepository se le va a entregar la instancia PostRepository
 builder.Services.AddTransient<IPostRepository, PostRepository>();
