@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\bin\Debug\net6.0\SocialMedia.Infraestructure.deps.json
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\bin\Debug\net6.0\SocialMedia.Infraestructure.dll
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\bin\Debug\net6.0\SocialMedia.Infraestructure.pdb
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\bin\Debug\net6.0\SocialMedia.Core.dll
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\bin\Debug\net6.0\SocialMedia.Core.pdb
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\obj\Debug\net6.0\SocialMedia.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\obj\Debug\net6.0\SocialMedia.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\obj\Debug\net6.0\SocialMedia.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\obj\Debug\net6.0\SocialMedia.Infraestructure.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\obj\Debug\net6.0\SocialMedia.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\obj\Debug\net6.0\SocialMedia.Infraestructure.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\obj\Debug\net6.0\SocialMedia.Infraestructure.dll
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\obj\Debug\net6.0\refint\SocialMedia.Infraestructure.dll
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\obj\Debug\net6.0\SocialMedia.Infraestructure.pdb
+C:\Users\USUARIO\Desktop\Desarrollo Web\Restful\SocialMedia\SocialMedia.Infraestructure\obj\Debug\net6.0\ref\SocialMedia.Infraestructure.dll
